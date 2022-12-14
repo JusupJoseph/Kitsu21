@@ -20,7 +20,5 @@ class ViewPagerAdapter(fragmentActivity: FragmentActivity) : FragmentStateAdapte
             }
             else -> {throw Resources.NotFoundException("Position Not Found")}
         }
-
-
     }
 }

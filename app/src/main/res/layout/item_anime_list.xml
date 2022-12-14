@@ -23,6 +23,7 @@
         android:elevation="100dp"
         android:text="NameAnime"
         android:ellipsize="end"
+        android:maxLines="1"
         android:textAlignment="center"
         android:textColor="@color/white"
         android:textStyle="bold"

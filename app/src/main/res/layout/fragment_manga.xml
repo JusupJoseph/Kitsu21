@@ -5,7 +5,7 @@
     android:layout_width="match_parent"
     android:background="#491B3D"
     android:layout_height="match_parent"
-    tools:context=".ui.fragments.MangaFragment">
+    tools:context=".ui.fragments.manga.MangaFragment">
 
     <androidx.recyclerview.widget.RecyclerView
         android:id="@+id/rv_manga"
